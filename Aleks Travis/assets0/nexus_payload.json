@@ -1,0 +1,1107 @@
+{
+    "misija": "NEXUS_PHASE_4",
+    "ucenik": "Tvoje Ime i Prezime",
+    "prioritet": "KRITICNO",
+    "nalog": [
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 6,
+            "koordinate": {
+                "lat": 18.479328,
+                "lon": 77.399806
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 136
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479328,
+                "lon": 77.399806,
+                "dubina_busenja_cm": 13.6,
+                "Temp_Tla_C": -12.1,
+                "pH_Vrijednost": 6.51,
+                "H2O_Postotak": 5.308070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 26,
+            "koordinate": {
+                "lat": 18.479957,
+                "lon": 77.401979
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 4
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479957,
+                "lon": 77.401979,
+                "dubina_busenja_cm": 0.4,
+                "Temp_Tla_C": -13.6,
+                "pH_Vrijednost": 7.55,
+                "H2O_Postotak": 4.978070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 47,
+            "koordinate": {
+                "lat": 18.479341,
+                "lon": 77.402824
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 62
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479341,
+                "lon": 77.402824,
+                "dubina_busenja_cm": 6.2,
+                "Temp_Tla_C": -19.3,
+                "pH_Vrijednost": 7.5,
+                "H2O_Postotak": 6.398070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 51,
+            "koordinate": {
+                "lat": 18.480375,
+                "lon": 77.401163
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 119
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.480375,
+                "lon": 77.401163,
+                "dubina_busenja_cm": 11.9,
+                "Temp_Tla_C": -11.6,
+                "pH_Vrijednost": 6.51,
+                "H2O_Postotak": 9.508070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 54,
+            "koordinate": {
+                "lat": 18.480847,
+                "lon": 77.401327
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 71
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.480847,
+                "lon": 77.401327,
+                "dubina_busenja_cm": 7.1,
+                "Temp_Tla_C": -11.9,
+                "pH_Vrijednost": 6.76,
+                "H2O_Postotak": 7.568070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 82,
+            "koordinate": {
+                "lat": 18.479503,
+                "lon": 77.399779
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 44
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479503,
+                "lon": 77.399779,
+                "dubina_busenja_cm": 4.4,
+                "Temp_Tla_C": -16.2,
+                "pH_Vrijednost": 7.11,
+                "H2O_Postotak": 8.358070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 96,
+            "koordinate": {
+                "lat": 18.478869,
+                "lon": 77.402175
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 48
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.478869,
+                "lon": 77.402175,
+                "dubina_busenja_cm": 4.8,
+                "Temp_Tla_C": -18.1,
+                "pH_Vrijednost": 7.68,
+                "H2O_Postotak": 6.838070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 160,
+            "koordinate": {
+                "lat": 18.495359,
+                "lon": 77.391961
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 138
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.495359,
+                "lon": 77.391961,
+                "dubina_busenja_cm": 13.8,
+                "Temp_Tla_C": -16.9,
+                "pH_Vrijednost": 7.5,
+                "H2O_Postotak": 8.320078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 165,
+            "koordinate": {
+                "lat": 18.464351,
+                "lon": 77.412086
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 134
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.464351,
+                "lon": 77.412086,
+                "dubina_busenja_cm": 13.4,
+                "Temp_Tla_C": -50.3,
+                "pH_Vrijednost": 6.64,
+                "H2O_Postotak": 2.97,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 196,
+            "koordinate": {
+                "lat": 18.496748,
+                "lon": 77.389047
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 119
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.496748,
+                "lon": 77.389047,
+                "dubina_busenja_cm": 11.9,
+                "Temp_Tla_C": -5.4,
+                "pH_Vrijednost": 7.64,
+                "H2O_Postotak": 8.73007822687931,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 246,
+            "koordinate": {
+                "lat": 18.480247,
+                "lon": 77.400146
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 121
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.480247,
+                "lon": 77.400146,
+                "dubina_busenja_cm": 12.1,
+                "Temp_Tla_C": -16.9,
+                "pH_Vrijednost": 6.62,
+                "H2O_Postotak": 4.478070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 253,
+            "koordinate": {
+                "lat": 18.497151,
+                "lon": 77.389612
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 67
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.497151,
+                "lon": 77.389612,
+                "dubina_busenja_cm": 6.7,
+                "Temp_Tla_C": -11.7,
+                "pH_Vrijednost": 6.68,
+                "H2O_Postotak": 9.820078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 256,
+            "koordinate": {
+                "lat": 18.470978,
+                "lon": 77.38129
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 27
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.470978,
+                "lon": 77.38129,
+                "dubina_busenja_cm": 2.7,
+                "Temp_Tla_C": -10.2,
+                "pH_Vrijednost": 7.22,
+                "H2O_Postotak": 2.28,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 314,
+            "koordinate": {
+                "lat": 18.479782,
+                "lon": 77.402781
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 11
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479782,
+                "lon": 77.402781,
+                "dubina_busenja_cm": 1.1,
+                "Temp_Tla_C": -17.1,
+                "pH_Vrijednost": 7.05,
+                "H2O_Postotak": 5.318070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 347,
+            "koordinate": {
+                "lat": 18.496888,
+                "lon": 77.390791
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 66
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.496888,
+                "lon": 77.390791,
+                "dubina_busenja_cm": 6.6,
+                "Temp_Tla_C": -10.2,
+                "pH_Vrijednost": 7.0,
+                "H2O_Postotak": 7.670078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 550,
+            "koordinate": {
+                "lat": 18.494626,
+                "lon": 77.389804
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 149
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.494626,
+                "lon": 77.389804,
+                "dubina_busenja_cm": 14.9,
+                "Temp_Tla_C": -16.3,
+                "pH_Vrijednost": 7.16,
+                "H2O_Postotak": 9.31007822687931,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 566,
+            "koordinate": {
+                "lat": 18.494081,
+                "lon": 77.38869
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 53
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.494081,
+                "lon": 77.38869,
+                "dubina_busenja_cm": 5.3,
+                "Temp_Tla_C": -13.1,
+                "pH_Vrijednost": 7.3,
+                "H2O_Postotak": 4.200078226879311,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 625,
+            "koordinate": {
+                "lat": 18.479281,
+                "lon": 77.3999
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 104
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479281,
+                "lon": 77.3999,
+                "dubina_busenja_cm": 10.4,
+                "Temp_Tla_C": -17.5,
+                "pH_Vrijednost": 7.93,
+                "H2O_Postotak": 7.488070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 628,
+            "koordinate": {
+                "lat": 18.481842,
+                "lon": 77.400502
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 21
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.481842,
+                "lon": 77.400502,
+                "dubina_busenja_cm": 2.1,
+                "Temp_Tla_C": -14.3,
+                "pH_Vrijednost": 7.22,
+                "H2O_Postotak": 4.478070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 637,
+            "koordinate": {
+                "lat": 18.479724,
+                "lon": 77.399903
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 136
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479724,
+                "lon": 77.399903,
+                "dubina_busenja_cm": 13.6,
+                "Temp_Tla_C": -13.9,
+                "pH_Vrijednost": 6.01,
+                "H2O_Postotak": 5.228070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 679,
+            "koordinate": {
+                "lat": 18.479118,
+                "lon": 77.400852
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 137
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479118,
+                "lon": 77.400852,
+                "dubina_busenja_cm": 13.7,
+                "Temp_Tla_C": -5.4,
+                "pH_Vrijednost": 6.69,
+                "H2O_Postotak": 4.498070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 712,
+            "koordinate": {
+                "lat": 18.494521,
+                "lon": 77.388871
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 89
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.494521,
+                "lon": 77.388871,
+                "dubina_busenja_cm": 8.9,
+                "Temp_Tla_C": -16.4,
+                "pH_Vrijednost": 7.53,
+                "H2O_Postotak": 4.750078226879311,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 761,
+            "koordinate": {
+                "lat": 18.479641,
+                "lon": 77.402902
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 16
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479641,
+                "lon": 77.402902,
+                "dubina_busenja_cm": 1.6,
+                "Temp_Tla_C": -6.7,
+                "pH_Vrijednost": 7.25,
+                "H2O_Postotak": 9.608070218481837,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 875,
+            "koordinate": {
+                "lat": 18.48077,
+                "lon": 77.403088
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 32
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.48077,
+                "lon": 77.403088,
+                "dubina_busenja_cm": 3.2,
+                "Temp_Tla_C": -9.7,
+                "pH_Vrijednost": 7.29,
+                "H2O_Postotak": 9.878070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 930,
+            "koordinate": {
+                "lat": 18.49707,
+                "lon": 77.390768
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 16
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.49707,
+                "lon": 77.390768,
+                "dubina_busenja_cm": 1.6,
+                "Temp_Tla_C": -11.6,
+                "pH_Vrijednost": 7.13,
+                "H2O_Postotak": 7.670078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 965,
+            "koordinate": {
+                "lat": 18.481248,
+                "lon": 77.400473
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 140
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.481248,
+                "lon": 77.400473,
+                "dubina_busenja_cm": 14.0,
+                "Temp_Tla_C": -10.7,
+                "pH_Vrijednost": 7.27,
+                "H2O_Postotak": 5.068070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1075,
+            "koordinate": {
+                "lat": 18.479789,
+                "lon": 77.402754
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 78
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479789,
+                "lon": 77.402754,
+                "dubina_busenja_cm": 7.8,
+                "Temp_Tla_C": -9.3,
+                "pH_Vrijednost": 7.46,
+                "H2O_Postotak": 4.838070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1103,
+            "koordinate": {
+                "lat": 18.494725,
+                "lon": 77.389382
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 139
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.494725,
+                "lon": 77.389382,
+                "dubina_busenja_cm": 13.9,
+                "Temp_Tla_C": -12.1,
+                "pH_Vrijednost": 6.03,
+                "H2O_Postotak": 4.550078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1104,
+            "koordinate": {
+                "lat": 18.469347,
+                "lon": 77.372301
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 28
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.469347,
+                "lon": 77.372301,
+                "dubina_busenja_cm": 2.8,
+                "Temp_Tla_C": -43.9,
+                "pH_Vrijednost": 7.66,
+                "H2O_Postotak": 1.94,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1154,
+            "koordinate": {
+                "lat": 18.481774,
+                "lon": 77.40094
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 92
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.481774,
+                "lon": 77.40094,
+                "dubina_busenja_cm": 9.2,
+                "Temp_Tla_C": -8.5,
+                "pH_Vrijednost": 6.54,
+                "H2O_Postotak": 9.518070218481837,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1184,
+            "koordinate": {
+                "lat": 18.480734,
+                "lon": 77.400986
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 42
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.480734,
+                "lon": 77.400986,
+                "dubina_busenja_cm": 4.2,
+                "Temp_Tla_C": -17.9,
+                "pH_Vrijednost": 7.45,
+                "H2O_Postotak": 6.528070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1187,
+            "koordinate": {
+                "lat": 18.493377,
+                "lon": 77.390405
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 72
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.493377,
+                "lon": 77.390405,
+                "dubina_busenja_cm": 7.2,
+                "Temp_Tla_C": -49.1,
+                "pH_Vrijednost": 7.19,
+                "H2O_Postotak": 4.92,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1241,
+            "koordinate": {
+                "lat": 18.481714,
+                "lon": 77.400869
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 51
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.481714,
+                "lon": 77.400869,
+                "dubina_busenja_cm": 5.1,
+                "Temp_Tla_C": -5.9,
+                "pH_Vrijednost": 6.95,
+                "H2O_Postotak": 6.668070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1249,
+            "koordinate": {
+                "lat": 18.496514,
+                "lon": 77.389529
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 62
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.496514,
+                "lon": 77.389529,
+                "dubina_busenja_cm": 6.2,
+                "Temp_Tla_C": -8.9,
+                "pH_Vrijednost": 6.97,
+                "H2O_Postotak": 6.810078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1263,
+            "koordinate": {
+                "lat": 18.481419,
+                "lon": 77.402739
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 84
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.481419,
+                "lon": 77.402739,
+                "dubina_busenja_cm": 8.4,
+                "Temp_Tla_C": -13.7,
+                "pH_Vrijednost": 6.76,
+                "H2O_Postotak": 6.238070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1282,
+            "koordinate": {
+                "lat": 18.479494,
+                "lon": 77.402113
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 16
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479494,
+                "lon": 77.402113,
+                "dubina_busenja_cm": 1.6,
+                "Temp_Tla_C": -7.3,
+                "pH_Vrijednost": 7.01,
+                "H2O_Postotak": 8.288070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1348,
+            "koordinate": {
+                "lat": 18.480057,
+                "lon": 77.401393
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 129
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.480057,
+                "lon": 77.401393,
+                "dubina_busenja_cm": 12.9,
+                "Temp_Tla_C": -12.1,
+                "pH_Vrijednost": 7.52,
+                "H2O_Postotak": 10.058070218481834,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1433,
+            "koordinate": {
+                "lat": 18.478934,
+                "lon": 77.400952
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 15
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.478934,
+                "lon": 77.400952,
+                "dubina_busenja_cm": 1.5,
+                "Temp_Tla_C": -19.4,
+                "pH_Vrijednost": 7.13,
+                "H2O_Postotak": 7.228070218481836,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1466,
+            "koordinate": {
+                "lat": 18.477187,
+                "lon": 77.381619
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 97
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.477187,
+                "lon": 77.381619,
+                "dubina_busenja_cm": 9.7,
+                "Temp_Tla_C": -50.7,
+                "pH_Vrijednost": 7.72,
+                "H2O_Postotak": 4.79,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1557,
+            "koordinate": {
+                "lat": 18.479027,
+                "lon": 77.401064
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 136
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479027,
+                "lon": 77.401064,
+                "dubina_busenja_cm": 13.6,
+                "Temp_Tla_C": -13.3,
+                "pH_Vrijednost": 6.44,
+                "H2O_Postotak": 5.188070218481835,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1567,
+            "koordinate": {
+                "lat": 18.458872,
+                "lon": 77.400172
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 114
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.458872,
+                "lon": 77.400172,
+                "dubina_busenja_cm": 11.4,
+                "Temp_Tla_C": -46.7,
+                "pH_Vrijednost": 6.86,
+                "H2O_Postotak": 5.63,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1672,
+            "koordinate": {
+                "lat": 18.4959,
+                "lon": 77.388986
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 8
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.4959,
+                "lon": 77.388986,
+                "dubina_busenja_cm": 0.8,
+                "Temp_Tla_C": -18.6,
+                "pH_Vrijednost": 7.35,
+                "H2O_Postotak": 4.380078226879312,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1871,
+            "koordinate": {
+                "lat": 18.495498,
+                "lon": 77.390051
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 116
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.495498,
+                "lon": 77.390051,
+                "dubina_busenja_cm": 11.6,
+                "Temp_Tla_C": -9.1,
+                "pH_Vrijednost": 6.18,
+                "H2O_Postotak": 8.290078226879311,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        },
+        {
+            "akcija": "NAVIGACIJA",
+            "cilj_id": 1924,
+            "koordinate": {
+                "lat": 18.479625,
+                "lon": 77.400286
+            }
+        },
+        {
+            "akcija": "SONDIRANJE",
+            "dubina": 42
+        },
+        {
+            "akcija": "SLANJE_PODATAKA",
+            "podaci": {
+                "lat": 18.479625,
+                "lon": 77.400286,
+                "dubina_busenja_cm": 4.2,
+                "Temp_Tla_C": -6.6,
+                "pH_Vrijednost": 7.33,
+                "H2O_Postotak": 10.108070218481837,
+                "Metan_Senzor": "Pozitivno",
+                "Organske_Molekule": "Da"
+            }
+        }
+    ]
+}
