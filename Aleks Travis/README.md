@@ -64,23 +64,8 @@ Za slanje podataka koristi se JSON struktura koja sadrži listu komandi za svaku
     }
   ]
 }
-
 ```
 
-##Inženjerski dnevnik (Troubleshooting Log)
+## Inženjerski dnevnik (Troubleshooting Log)
 
 Tijekom razvoja analitičkog sustava pojavilo se nekoliko tehničkih problema koji su utjecali na ispravnost obrade podataka i komunikacije s vanjskim sustavom. Svaki problem je analiziran, izoliran i uspješno riješen.
-
----
-
-### Problem 1: Neispravno učitavanje CSV datoteka
-**Simptom:** Podaci su se učitavali s pogrešnim stupcima ili u potpunosti prazni DataFrame.
-
-**Uzrok:** Netočno definiran separator (`sep`). Datoteke su koristile `;` umjesto zareza `,`.
-
-**Rješenje:**
-- Provjerena struktura CSV datoteka
-- Ispravljeno učitavanje podataka eksplicitnim definiranjem separatora
-
-```python
-df = pd.read_csv('data/mars_lokacije.csv', sep=';')
