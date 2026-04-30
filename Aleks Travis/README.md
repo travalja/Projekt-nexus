@@ -45,13 +45,11 @@ Završna vizualizacija integrira stvarnu satelitsku snimku s analiziranim podaci
 [lon_min, lon_max, lat_min, lat_max]
 
 
-## 📡 Komunikacijski protokol (JSON Uplink)
+## Komunikacijski protokol (JSON Uplink)
 
-Za komunikaciju s robotskim sustavom koristi se strukturirani JSON paket koji sadrži niz naredbi generiranih na temelju identificiranih kandidatskih lokacija. Svaki zapis u JSON-u predstavlja jednu lokaciju i pripadajući skup akcija koje robot mora izvršiti.
+Za slanje podataka koristi se JSON struktura koja sadrži listu komandi za svaku odabranu lokaciju. Svaka komanda uključuje ID lokacije i niz akcija koje robot treba izvršiti (navigacija, sondiranje i slanje podataka).
 
-### Struktura paketa
-Glavni objekt sadrži naziv misije i listu komandi:
-
+### Primjer JSON paketa
 ```json
 {
   "misija": "Nexus",
