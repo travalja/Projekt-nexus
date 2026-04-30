@@ -45,7 +45,7 @@ Završna vizualizacija integrira stvarnu satelitsku snimku s analiziranim podaci
 [lon_min, lon_max, lat_min, lat_max]
 
 
-## Komunikacijski protokol (JSON Uplink)
+Komunikacijski protokol (JSON Uplink)
 
 Za slanje podataka koristi se JSON struktura koja sadrži listu komandi za svaku odabranu lokaciju. Svaka komanda uključuje ID lokacije i niz akcija koje robot treba izvršiti (navigacija, sondiranje i slanje podataka).
 
