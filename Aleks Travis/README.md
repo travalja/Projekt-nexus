@@ -15,28 +15,28 @@ Takav pristup omogućuje dobivanje “čistog” skupa podataka (`df_cisto`) koj
 Vizualizacija podataka predstavlja ključni dokazni sloj analize jer omogućuje intuitivno razumijevanje odnosa između različitih varijabli i njihove prostorne distribucije.
 
 ### 1. Korelacija temperature i vlage
-![Temp vs H2O](assets0/graph1_temp_h2o.png)
+![temp i voda](assets0/graf1_temperatura_voda.png)
 
 Ovaj graf prikazuje odnos temperature tla i razine vlage, uz dodatnu dimenziju prisutnosti metana. Uočava se da se određene koncentracije metana pojavljuju u specifičnim kombinacijama temperature i vlage, što može ukazivati na potencijalno aktivne geokemijske procese.
 
 
 ### 2. Toplinska karta dubine bušenja
-![Heatmap Depth](assets0/graph2_heatmap_depth.png)
+![karta dubine](assets0/graf2_karta_dubine.png)
 
 Geoprostorni prikaz dubine bušenja omogućuje identifikaciju područja s većim potencijalom za dublja istraživanja. Varijacije u dubini mogu ukazivati na razlike u sastavu tla ili geološkoj strukturi.
 
 ### 3. Rasprostranjenost metana
-![Methane Scatter](assets0/graph3_methane_scatter.png)
+![metan](assets0/graf3_metan.png)
 
 Jasna podjela između pozitivnih (crveno) i negativnih (plavo) očitanja metana omogućuje brzo lociranje zona od interesa. Grupiranje pozitivnih očitanja može sugerirati lokalizirane izvore metana.
 
 ### 4. Kandidatske lokacije
-![Candidates](assets0/scatter_plot.png)
+![kandidat](assets0/karta_kandidata.png)
 
 Na ovoj karti označene su ključne lokacije koje istovremeno sadrže metan i organske molekule. Takve točke predstavljaju primarne kandidate za bušenje jer imaju najveći znanstveni potencijal.
 
 ### 5. Satelitska mapa s preklopljenim podacima
-![Mission Map](assets0/jezero_mission_map.jpg)
+![Mission Map]()
 
 Završna vizualizacija integrira stvarnu satelitsku snimku s analiziranim podacima. Ključni tehnički element ove metode je korištenje parametra `extent`, koji definira granice slike u odnosu na stvarne GPS koordinate.
 
