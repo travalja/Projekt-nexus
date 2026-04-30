@@ -41,7 +41,7 @@ Na ovoj karti označene su ključne lokacije koje istovremeno sadrže metan i or
 Završna vizualizacija integrira stvarnu satelitsku snimku s analiziranim podacima. Ključni tehnički element ove metode je korištenje parametra `extent`, koji definira granice slike u odnosu na stvarne GPS koordinate.
 
 `extent` se računa kao:
-```python
+
 [lon_min, lon_max, lat_min, lat_max]
 
 
