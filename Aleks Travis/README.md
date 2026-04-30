@@ -69,3 +69,28 @@ Za slanje podataka koristi se JSON struktura koja sadrži listu komandi za svaku
 ## Inženjerski dnevnik (Troubleshooting Log)
 
 Tijekom razvoja analitičkog sustava pojavilo se nekoliko tehničkih problema koji su utjecali na ispravnost obrade podataka i komunikacije s vanjskim sustavom. Svaki problem je analiziran, izoliran i uspješno riješen.
+
+
+---
+
+### Problem 1: Neispravno spajanje tablica
+
+**Uzrok:** Nepodudarni tipovi stupca `ID_Uzorka`
+**Simptom:** Prazni ili nepotpuni merge rezultat
+**Rješenje:** Eksplicitno osiguravanje istog tipa podataka prije spajanja
+
+---
+
+### Problem 2: Nedostatak legendi na grafovima
+
+**Uzrok:** Korištenje `plt.scatter()` bez `label` parametra
+**Rješenje:** Dodavanje `label` i `plt.legend()` za interpretabilnost
+
+---
+
+
+##  Zaključak
+
+Provedena analiza kratera Jezero pokazala je da se kombinacijom čišćenja podataka, vizualne analize i automatizirane generacije naredbi mogu pouzdano identificirati lokacije s najvećim potencijalom za daljnja istraživanja. Uklanjanjem anomalija iz senzorskih podataka osigurana je veća točnost modela, dok su geografske vizualizacije omogućile jasnu interpretaciju odnosa između fizikalnih i kemijskih parametara.
+
+Integracijom svih rezultata u JSON komunikacijski sustav omogućen je automatizirani prijenos podataka prema robotskoj misiji, čime je zatvoren cijeli analitičko-operativni ciklus – od sirovih podataka do izvršnih navigacijskih naredbi. Ovakav pristup potvrđuje učinkovitost korištene metodologije i njezinu primjenjivost u budućim svemirskim istraživanjima.
