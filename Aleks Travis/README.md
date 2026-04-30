@@ -65,7 +65,9 @@ Za slanje podataka koristi se JSON struktura koja sadrži listu komandi za svaku
   ]
 }
 
-Inženjerski dnevnik (Troubleshooting Log)
+```
+
+##Inženjerski dnevnik (Troubleshooting Log)
 
 Tijekom razvoja analitičkog sustava pojavilo se nekoliko tehničkih problema koji su utjecali na ispravnost obrade podataka i komunikacije s vanjskim sustavom. Svaki problem je analiziran, izoliran i uspješno riješen.
 
