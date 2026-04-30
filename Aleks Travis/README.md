@@ -36,7 +36,7 @@ Jasna podjela između pozitivnih (crveno) i negativnih (plavo) očitanja metana 
 Na ovoj karti označene su ključne lokacije koje istovremeno sadrže metan i organske molekule. Takve točke predstavljaju primarne kandidate za bušenje jer imaju najveći znanstveni potencijal.
 
 ### 5. Satelitska mapa s preklopljenim podacima
-![Mission Map]()
+![mapa karta](assets0/misijska_karta_jezero.jpg)
 
 Završna vizualizacija integrira stvarnu satelitsku snimku s analiziranim podacima. Ključni tehnički element ove metode je korištenje parametra `extent`, koji definira granice slike u odnosu na stvarne GPS koordinate.
 
