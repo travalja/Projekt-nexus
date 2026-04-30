@@ -1,8 +1,8 @@
-## 📌 Izvršni sažetak (Executive Summary)
+## Izvršni sažetak (Executive Summary)
 
 Ovaj projekt fokusira se na analizu geoprostornih i kemijskih podataka prikupljenih u krateru Jezero na Marsu s ciljem identifikacije optimalnih lokacija za bušenje. Ulazni podaci dolaze iz dviju CSV datoteka koje sadrže GPS koordinate, fizikalna svojstva tla (temperatura, vlaga, pH) te indikatore prisutnosti metana i organskih molekula. Kroz proces čišćenja podataka, uklanjanja anomalija i vizualne analize, izdvajaju se najperspektivnije lokacije za daljnje istraživanje. Konačni cilj sustava je generiranje automatiziranog JSON navigacijskog naloga koji omogućuje robotskoj misiji precizno kretanje, sondiranje tla i slanje prikupljenih podataka prema kontrolnom sustavu.
 
-## 🧹 Metodologija obrade podataka (Data Wrangling)
+## Metodologija obrade podataka (Data Wrangling)
 
 Proces obrade podataka temelji se na osiguravanju točnosti i pouzdanosti analize kroz uklanjanje senzorskog šuma i nelogičnih vrijednosti. Podaci su inicijalno učitani iz dviju CSV datoteka te spojeni u jedinstveni DataFrame koristeći zajednički identifikator (`ID`), čime je omogućena korelacija geoprostornih i kemijskih mjerenja.
 
@@ -10,7 +10,7 @@ Primijenjeni su specifični logički uvjeti kako bi se filtrirali podaci koji od
 
 Takav pristup omogućuje dobivanje “čistog” skupa podataka (`df_cisto`) koji predstavlja pouzdanu osnovu za daljnju analizu i vizualizaciju. Uklanjanjem anomalija smanjuje se rizik od pogrešnih zaključaka i osigurava veća preciznost u identifikaciji potencijalnih lokacija za bušenje.
 
-## 📊 Geoprostorna analiza i vizualizacija
+## Geoprostorna analiza i vizualizacija
 
 Vizualizacija podataka predstavlja ključni dokazni sloj analize jer omogućuje intuitivno razumijevanje odnosa između različitih varijabli i njihove prostorne distribucije.
 
@@ -66,13 +66,13 @@ Glavni objekt sadrži naziv misije i listu komandi:
     }
   ]
 }
-## 🛠️ Inženjerski dnevnik (Troubleshooting Log)
+## Inženjerski dnevnik (Troubleshooting Log)
 
 Tijekom razvoja analitičkog sustava pojavilo se nekoliko tehničkih problema koji su utjecali na ispravnost obrade podataka i komunikacije s vanjskim sustavom. Svaki problem je analiziran, izoliran i uspješno riješen.
 
 ---
 
-### ❌ Problem 1: Neispravno učitavanje CSV datoteka
+### Problem 1: Neispravno učitavanje CSV datoteka
 **Simptom:** Podaci su se učitavali s pogrešnim stupcima ili u potpunosti prazni DataFrame.
 
 **Uzrok:** Netočno definiran separator (`sep`). Datoteke su koristile `;` umjesto zareza `,`.
