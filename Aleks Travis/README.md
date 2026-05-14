@@ -83,8 +83,8 @@ Tijekom razvoja analitičkog sustava pojavilo se nekoliko tehničkih problema ko
 
 ### Problem 2: Nedostatak legendi na grafovima
 
-**Uzrok:** Korištenje `plt.scatter()` bez `label` parametra
-**Rješenje:** Dodavanje `label` i `plt.legend()` za interpretabilnost
+Uzrok: Parametar extent nije bio pravilno postavljen pa koordinate nisu odgovarale karti.
+Rješenje: Definirao sam granice karte pomoću: "extent = [lon_min, lon_max, lat_min, lat_max]"
 
 ---
 
